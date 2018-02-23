@@ -1,1 +1,1 @@
-# hello-world
+This is me, I am trying to learn how this all works, and how I can hopfully use this to integrate with my smart home. preferable with a linking to the stringify app and or google home in order to work with Broadlink RMpro and RM Bridge codes.
